@@ -1,3 +1,7 @@
+// Title: Best Food in the World
+// Purpose: Create class named and create objects based on class then set and output data
+// Author Franskus Agapa
+// Have fun - Enjoy the process - Practices make improvement
 
 #include <iostream>
 #include "BestFood.h"
