@@ -1,6 +1,4 @@
-//
-// Created by XaveF on 5/3/2022.
-//
+// Food class declaration
 
 #ifndef BESTFOODINTHEWORLD_BESTFOOD_H
 #define BESTFOODINTHEWORLD_BESTFOOD_H
