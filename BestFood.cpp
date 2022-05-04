@@ -1,6 +1,4 @@
-//
-// Created by XaveF on 5/3/2022.
-//
+// "BestFood.h class implementation
 
 #include "BestFood.h"
 
