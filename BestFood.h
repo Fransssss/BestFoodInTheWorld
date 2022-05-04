@@ -1,4 +1,4 @@
-// Food class declaration
+//BestFood class declaration
 
 #ifndef BESTFOODINTHEWORLD_BESTFOOD_H
 #define BESTFOODINTHEWORLD_BESTFOOD_H
@@ -18,6 +18,5 @@ public:
     void SetComment(const string& comment);
     void Print();
 };
-
 
 #endif //BESTFOODINTHEWORLD_BESTFOOD_H
